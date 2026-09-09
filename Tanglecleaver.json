@@ -1,0 +1,174 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Head Replace",
+          "replace_ids": [
+            89939522788793
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/raw/refs/heads/main/tiantui%20star%20blade.obj"
+        },
+        {
+          "name": "Handle Replace",
+          "replace_ids": [
+            121806564166408
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/raw/refs/heads/main/tiantui%20star%20handle.obj"
+        },
+        {
+          "name": "Hide Extras",
+          "replace_ids": [
+            79631712600906
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Animation",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Idle Replace",
+          "replace_ids": [
+            87042341232425
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 13992711211
+        },
+        {
+          "name": "Sprint Replace",
+          "replace_ids": [
+            130533842232186
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 14069980959
+        },
+        {
+          "name": "Equip Replace",
+          "replace_ids": [
+            86001036209496
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 13992707294
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sound",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Mual Swing Replace",
+          "replace_ids": [
+            136633555539199
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/raw/refs/heads/main/tiantui%20slash.wav"
+        },
+        {
+          "name": "Maul Slam Replace",
+          "replace_ids": [
+            129922197154277,
+            72483809453170
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/raw/refs/heads/main/tiantui%20slam.mp3"
+        },
+        {
+          "name": "Maul Jump Replace",
+          "replace_ids": [
+            98587858115094
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/raw/refs/heads/main/tiantui%20jump.wav"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Wrap (Over Diamond)",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Colormap Replace",
+          "replace_ids": [
+            "109919246180600:0"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/blob/main/colormap.png?raw=true"
+        },
+        {
+          "name": "Normals Replace",
+          "replace_ids": [
+            "109919246180600:1"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/blob/main/normals.png?raw=true"
+        },
+        {
+          "name": "Metalness Replace",
+          "replace_ids": [
+            "109919246180600:2"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/blob/main/metalness.png?raw=true"
+        },
+        {
+          "name": "Roughness Replace",
+          "replace_ids": [
+            "109919246180600:3"
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/blob/main/roughness.png?raw=true"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace 2",
+          "replace_ids": [
+            96956174894354
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/blob/main/tanglecleaver%20thumbnail%202.png?raw=true"
+        },
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            81478141693597
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Tanglecleaver/blob/main/tanglecleaver%20thumbnail.png?raw=true"
+        }
+      ]
+    }
+  ]
+}
